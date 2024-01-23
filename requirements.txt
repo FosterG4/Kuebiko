@@ -24,7 +24,7 @@ nltk
 openai==0.26.5
 opencv-python==4.7.0.68
 packaging==23.0
-Pillow==9.4.0
+Pillow==10.2.0
 python-vlc
 protobuf==4.22.0
 pyasn1==0.4.8
